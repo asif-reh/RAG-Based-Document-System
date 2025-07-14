@@ -9,8 +9,8 @@ RAG pipeline with LangChain and HuggingFace LLM.
 Streamlit interface for user interaction.
 
 Installation
-git clone https://github.com/yourusername/rag-qa-system.git
-cd rag-qa-system
+git clone https://github.com/asif-reh/RAG-Based-Document-System.git
+cd RAG-Based-Document-System
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
